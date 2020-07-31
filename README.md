@@ -1,6 +1,8 @@
 # Chicago_Crime_Stats_Shiny_App
 
-This is a R Shiny app that I created for a class assignment. The data are about 2018 crime incidents in Chicago, Illinois. Link to dataset: https://data.cityofchicago.org/Public-Safety/Crimes-2018/3i3m-jwuy/data
+This is a R Shiny app that I created for a class assignment. The data are about 2018 crime incidents in Chicago, Illinois. 
+
+Link to dataset: https://data.cityofchicago.org/Public-Safety/Crimes-2018/3i3m-jwuy/data
 
 Tabs:
 1. Frequency of crime by month and crime type. Bar charts for different month crime type combinations.
